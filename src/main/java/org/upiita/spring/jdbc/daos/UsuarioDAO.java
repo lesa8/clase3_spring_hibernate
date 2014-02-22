@@ -4,6 +4,8 @@ import java.util.List;
 
 import org.upiita.spring.jdbc.entidades.Usuario;
 
+//Comentario Para probar en el repositorio git
+
 public interface UsuarioDAO {
 
 	public Usuario buscaUsuarioPorId(Integer usuarioId);
